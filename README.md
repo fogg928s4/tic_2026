@@ -1,4 +1,4 @@
-# CICD de APPScripti
+# CICD de APPScript
 
 ## Configuración del repositorio y codespace
 
