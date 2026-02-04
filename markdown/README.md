@@ -1,4 +1,6 @@
-# CICD de APPScript
+Edita el README.md usando la siguiente estructura
+
+# CICD de APPScripti
 
 ## Configuración del repositorio y codespace
 
